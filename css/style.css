@@ -492,4 +492,59 @@ a:active {
         left: -14%;
     }
 }
+
+
+
+
+/*====================================================
+                      SKILLS
+======================================================*/
+
+
+.skill-cover {
+    background-color: 
+    #5bc0de;
+}
+
+.skill-cover h3{
+  font-family: "hind", sans-serif;
+  font-size: 35px;
+  margin-bottom: 40px;
+}
+
+.skill-item {
+    padding: 20px 0;
+    margin-bottom: 30px;
+    background: #389ef8;
+    border-radius: 1em;
+}
+.skill-item:hover{
+    background-color: #343a40 ;
+    transform: scale(1.1);
+    cursor: pointer;
+    border-radius: 1.4em;
+}
+
+.skill-item i {
+    color: #fff;
+}
+
+.skill-item h2 {
+    color: #fff;
+    font-size: "hind", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 1px;
+}
+
+.skill-item p {
+    color: #fff;
+    font-family: "hind", sans-serif;
+    /*text-transform: uppercase;*/
+    font-weight: 300;
+    margin-top: 0;
+}
+
+
  
